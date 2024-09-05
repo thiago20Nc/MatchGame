@@ -18,3 +18,4 @@ C:\Users\carva\OneDrive\Documentos\C# LIVRO\MatchGame\MatchGame\obj\Debug\net9.0
 C:\Users\carva\OneDrive\Documentos\C# LIVRO\MatchGame\MatchGame\obj\Debug\net9.0-windows\MatchGame.pdb
 C:\Users\carva\OneDrive\Documentos\C# LIVRO\MatchGame\MatchGame\obj\Debug\net9.0-windows\MatchGame.genruntimeconfig.cache
 C:\Users\carva\OneDrive\Documentos\C# LIVRO\MatchGame\MatchGame\obj\Debug\net9.0-windows\ref\MatchGame.dll
+C:\Users\carva\OneDrive\Documentos\C# LIVRO\MatchGame\MatchGame\obj\Debug\net9.0-windows\MatchGame.sourcelink.json
